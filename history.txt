@@ -5,11 +5,7 @@
     5  vim Exec2.c
     6  gcc Exec2.c -o Exec2
     7  gcc Exec.c -o Exec
-    8  gcc #Exec.c -o Exec
-    9  gcc Exec.c -o Exec
-   10  clear
-   11  ls
-   12  touch code.cpp
+ 
    13  ls
    14  gcc code.cpp -o code
    15  exit
