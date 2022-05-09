@@ -1,11 +1,15 @@
-1  sudo apt install gcc
+    1  sudo apt install gcc
     2  pwd
     3  gedit Exec.c
     4  vim Exec.c
     5  vim Exec2.c
     6  gcc Exec2.c -o Exec2
     7  gcc Exec.c -o Exec
- 
+    8  gcc #Exec.c -o Exec
+    9  gcc Exec.c -o Exec
+   10  clear
+   11  ls
+   12  touch code.cpp
    13  ls
    14  gcc code.cpp -o code
    15  exit
@@ -150,3 +154,281 @@
   154  git status
   155  git add .
   156  history
+  157  touch history.txt
+  158  git status
+  159  git add .
+  160  git commit -m "version 5"
+  161  log
+  162  git log
+  163  history
+  164  git log
+  165  git init
+  166  git log
+  167  pwd
+  168  cd Software_Lab/myproject
+  169  git init
+  170  git log
+  171  git status
+  172  git push -u origin main
+  173  git status
+  174  LOG
+  175  log
+  176  pwd
+  177  cd Software_Lab/myproject
+  178  git log
+  179  git --help
+  180  git status
+  181  log
+  182  git status
+  183  cd SoftwareLab/myproject
+  184  cd /SoftwareLab/myproject
+  185  cd .
+  186  ls
+  187  cd Software_Lab/myproject
+  188  git log
+  189  git status
+  190  clear
+  191  ls -l
+  192  git --version
+  193  git pull
+  194  cd .
+  195  cd ..
+  196  git pull
+  197  cd .
+  198  cd ..
+  199  git pull
+  200  clear
+  201  git status
+  202  git pull
+  203  git status
+  204  cd Dev2\
+  205  cd Dev2
+  206  git status
+  207  cd ..
+  208  pwd
+  209  cd ..
+  210  pwd
+  211  git status
+  212  git init
+  213  git pull
+  214  cd KEDIAGAURAV1709
+  215  cd /KEDIAGAURAV1709
+  216  cd ..
+  217  pwd
+  218  ls -a
+  219  ls -l
+  220  clear
+  221  cd home
+  222  cd gauravkedia1709
+  223  cd home/KEDIAGAURAV1709
+  224  cd home/kediagaurav1709
+  225  cd kediagaurav1709
+  226  pwd
+  227  clear
+  228  ls -l
+  229  git status
+  230  git config --global --list
+  231  git pull
+  232  cd ..
+  233  git pull
+  234  mkdir Dev2
+  235  git clone https://github.com/GauravMKedia/Software_Lab.git
+  236  pwd
+  237  cd
+  238  cd
+  239  pwd
+  240  ls -l
+  241  git pull
+  242  git remote -v
+  243  pwd
+  244  cd home/kediagaurav1709
+  245  pwd
+  246  ls -l
+  247  git status
+  248  git log
+  249  cd Software_Lab1
+  250  cd myproject
+  251  git status
+  252  touch test5.java
+  253  git status
+  254  git add .
+  255  git status
+  256  git commit -m "version 6"
+  257  git status
+  258  git push -u origin main
+  259  git status
+  260  git log
+  261  pwd
+  262  cd myproject
+  263  cd /myproject
+  264  cd ..
+  265  cd Software_Lab1/myproject
+  266  touch test.7
+  267  touch test.7.txt
+  268  git status
+  269  git add .
+  270  git commit -m "version 7"
+  271  git push -u origin main
+  272  cd ..
+  273  cd Software_Lab1
+  274  cd myproject
+  275  git add .
+  276  git commit -m "Version 7.1"
+  277  git push
+  278  cd myproject
+  279  cd /myproject
+  280  pwd
+  281  cd myproject
+  282  cd ..
+  283  cd Software_Lab1/myproject
+  284  git status
+  285  git commit -m "version 7.2"
+  286  git add .
+  287  git commit -m "version 7.2"
+  288  git push
+  289  touch test7.txt
+  290  vim test7.txt
+  291  git add .
+  292  git commit -m "version 7.2"
+  293  git status
+  294  git push
+  295  cd ..
+  296  cd Software_Lab/1/myproject
+  297  cd Software_Lab1/myproject
+  298  ls -l
+  299  vim test7.txt
+  300  cat test7.txt
+  301  git add .
+  302  git commit -m "Version 7.4"
+  303  git push
+  304  git push -u origin main
+  305  LOG
+  306  log
+  307  history
+  308  cleR
+  309  CD ..
+  310  cd ..
+  311  cd .
+  312  cd ..
+  313  cd /home
+  314  cd /gauravkedia
+  315  ls
+  316  cd kediagaurav1709
+  317  ls
+  318  cd Software_Lab
+  319  cd ..
+  320  cd Software_Lab1
+  321  cd myproject
+  322  ls
+  323  git log
+  324  git log -p
+  325  git log -p -2
+  326  git log -p test7.java
+  327  git log -p test7.txt
+  328  git log --oneline
+  329  git log --pretty=oneline
+  330  git log -since=10.days
+  331  git log --since=10.days
+  332  git log --oneline
+  333  git log
+  334  cd .
+  335  cd ..
+  336  cd kediagaurav1709
+  337  cd Software_Lab1/myproject
+  338  ;s
+  339  ls -l
+  340  ls
+  341  git log --pretty=onrlinr
+  342  git log --pretty=oneline
+  343  git log --oneline
+  344  git log --pretty=format:%h --%an
+  345  git log --pretty=format:%an
+  346  git log --pretty=format:%h
+  347  git log --pretty=format:%h %an
+  348  git log --pretty=format:%h --%an
+  349  git log --pretty=format:%h -- %an
+  350  git log --pretty=format:%h--%an
+  351  git log --pretty=format:%v
+  352  git log --pretty=format:%f
+  353  git log --pretty=format:%h--%an--&f
+  354  git log --pretty=format:%h--%an--%f
+  355  log
+  356  history
+  357  git status
+  358  cd SoftwareLab1/myproject
+  359  cd Software_Lab1/myproject
+  360  git status
+  361  history
+  362  git remote -v
+  363  ls -l
+  364  touch test8.java
+  365  vim test8.java
+  366  git status
+  367  git add test8.java
+  368  git commit -m "Version 8"
+  369  git status
+  370  git branch
+  371  git push -u origin DBA
+  372  git remote -v
+  373  git push
+  374  git status
+  375  git push -u origin DBA
+  376  git push -u origin dba
+  377  git branch -a
+  378  git status
+  379  git push -u origin DBA
+  380  git remote -v
+  381  git checkout
+  382  git checkout DBA
+  383  git remote -v
+  384  git branch
+  385  git checkout DBA
+  386  git checkout dba
+  387  git checkout -b DBA
+  388  git branch
+  389  git push -u origin DBA
+  390  git branch
+  391  git checkout
+  392  git branch
+  393  git checkout main
+  394  git branch
+  395  git push -u origin DBA
+  397  git branch -d DBA
+  398  git branch
+  399  git push -u origin DBA
+  400  git branch -d DB
+  401  git branch -d DBA
+  402  git checkout -b DB
+  403  git branch
+  404  git push -u origin main
+  405  a
+  406  git push -u origin DBA
+  407  git push -u origin DB
+  408  git branch
+  409  git checkout DBA
+  410  git branch
+  411  git checkout -d DBA
+  412  git checkout -d DB
+  413  git branch
+  414  git checkout main
+  415  git main
+  416  git branch
+  417  git branch -d DBA
+  418  git branch -d DB
+  419  git branch
+  420  git checkout DB
+  421  git branch -d DB
+  422  git checkout DBA
+  423  git branch
+  424  git branch -d DB
+  425  git branch
+  426  git log
+  427  git log --pretty=oneline
+  428  git pull
+  429  git status
+  430  git branch
+  431  git checkout main
+  432  git pull
+  433  ls -l
+  434  git status
+  435  history
